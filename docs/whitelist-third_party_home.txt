@@ -1,0 +1,46 @@
+# third_party_home packages from CDN mitv_security_center.xml
+# Pulled ~2026-10-19. Re-fetch CDN for latest.
+# URL: https://cdn.cnbj3-fusion.fds.api.mi-img.com/xmls/mitv_security_center.xml
+
+cleantools.mitv.com.tvcleantols
+com.avc_mr.datacollectionandroid
+com.bytv.launcher
+com.bytv.launcher.special
+com.example.ovicnet
+com.gochinatv.ad
+com.instwall.player
+com.jim.rotatescreen
+com.komect.skill.simple
+com.meituan.retail.launcher
+com.mi.receiver
+com.mitv.care
+com.mitv.robotin
+com.miui.hybrid
+com.miui.tv.analytics
+com.mobile.stb
+com.sunlighttech.iepg
+com.thunderstone.idun
+com.thunderstone.idun.dev
+com.tongshi.home
+com.ts.launcher
+com.xiaomi.mi_connect_service
+com.xiaomi.miplay
+com.xiaomi.miplay_service
+com.xiaomi.mitv.adbdm
+com.xiaomi.mitv.bugreporter
+com.xiaomi.mitv.download
+com.xiaomi.mitv.open
+com.xiaomi.mitv.tvvideocall
+com.xiaomi.mitv.voicecontrol.demo.morpheussimpleclient
+com.xiaomi.mitvdaemon
+com.xiaomi.mitvshow
+com.xiaomi.ottcase
+com.xiaomi.saber
+com.xiaomi.saber.test
+com.xiaomi.smartscreen
+com.xiaomi.smoke
+com.xiaomi.smoke.test
+com.xiaomi.voicecontrol
+com.xiaomi.wakeupservice
+com.yeelight.yeelinkphotoplayer
+com.zr.webview
